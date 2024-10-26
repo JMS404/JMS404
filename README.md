@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Scott</h1>
 <h3 align="center">A technical consultant, passionate about solving problems with technology.</h3>
-<h3 align="center">Specializing in the Microsoft Stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jms404&label=Profile%20views&color=0e75b6&style=flat" alt="jms404" /> </p>
-
-- 🌱 I’m currently learning **Azure B2C**
-
-- 💬 Ask me about **Power Platform, Dataverse, Data Modelling, Azure & React**
 
 - ⚡ Fun fact **I grew up in Esperance, WA - Best beaches in the world 💯**
 
